@@ -47,6 +47,15 @@
   transform: translateY(2px);
 }
 
+.nav-link {
+  color: #4f4d4d;
+  transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+  color: #ffa500;
+}
+
 .hero-bg {
   background: linear-gradient(180deg, #ffffff 10%, rgba(255, 165, 0, 0.3) 100%);
 }
